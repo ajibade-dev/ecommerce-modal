@@ -16,7 +16,7 @@ const Navbar = () => {
   }
 
   return (
-  <div className=" bg-white flex items-center justify-around md:px-10">
+  <div className=" bg-white flex items-center justify-around md:px-2">
 
     <div className='flex items-center justify-center'>
     <div onClick={handleNav} className='flex md:hidden mr-6'>
