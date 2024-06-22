@@ -70,7 +70,7 @@ const Hero = ({addToCart}) => {
 
   return (
     // the main div holding everybody together
-    <div className="flex flex-col md:flex-row md:mt-10">
+    <div className="flex flex-col md:flex-row md:mt-10 mb-5">
         {/* for the mobile view */}
         <div className="flex md:hidden w-full m-auto relative">
     <div className="w-full h-full bg-center bg-cover ">
